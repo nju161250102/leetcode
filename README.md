@@ -12,3 +12,6 @@
 |8|String to Integer(atoi)|循环+判断|2018-07-13|
 |9|Palindrome Number|数学运算|2018-07-14|
 |11*|Container With Most Water|找最优解|2018-07-14|
+|12|Integer to Roman|打表|2018-07-19|
+|13|Roman to Integer|直接计算|2018-07-19|
+|14|Longest Common Prefix|二分法|2018-07-19|
