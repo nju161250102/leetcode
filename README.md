@@ -15,3 +15,6 @@
 |12|Integer to Roman|打表|2018-07-19|
 |13|Roman to Integer|直接计算|2018-07-19|
 |14|Longest Common Prefix|二分法|2018-07-19|
+|20|Valid Parentheses|栈|2018-08-30|
+|39|Combination Sum|回溯状态树|2018-09-03|
+|40|Combination Sum II|39用字典改进|2018-09-03|
