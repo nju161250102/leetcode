@@ -16,5 +16,8 @@
 |13|Roman to Integer|直接计算|2018-07-19|
 |14|Longest Common Prefix|二分法|2018-07-19|
 |20|Valid Parentheses|栈|2018-08-30|
+|35|Search Insert Position|简单题|2018-09-04|
+|37*|Sudoku Solver|利用栈回溯|2018-09-04|
+|38|Count and Say|简单题|2018-09-03|
 |39|Combination Sum|回溯状态树|2018-09-03|
 |40|Combination Sum II|39用字典改进|2018-09-03|
