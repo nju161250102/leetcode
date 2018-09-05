@@ -1,6 +1,6 @@
 # Leetcode解答
 
-|题号|题目|知识点|完成时间|
+|题号|题目|方法|完成时间|
 |:--|:--|:--|:--|
 |1*|Two Sum|暴力枚举？（并没有这么简单）|2018-07-11|
 |2|Add Two Numbers|链表操作|2018-07-11|
@@ -16,6 +16,8 @@
 |13|Roman to Integer|直接计算|2018-07-19|
 |14|Longest Common Prefix|二分法|2018-07-19|
 |20|Valid Parentheses|栈|2018-08-30|
+|22|Generate Parentheses|循环|2018-09-05|
+|31|Next Permutation|找算法|2018-09-05|
 |35|Search Insert Position|简单题|2018-09-04|
 |37*|Sudoku Solver|利用栈回溯|2018-09-04|
 |38|Count and Say|简单题|2018-09-03|
