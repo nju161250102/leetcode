@@ -23,3 +23,4 @@
 |38|Count and Say|简单题|2018-09-03|
 |39|Combination Sum|回溯状态树|2018-09-03|
 |40|Combination Sum II|39用字典改进|2018-09-03|
+|42|Trapping Rain Water|多次搜索|2018-09-06|
