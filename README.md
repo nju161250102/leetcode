@@ -23,4 +23,7 @@
 |38|Count and Say|简单题|2018-09-03|
 |39|Combination Sum|回溯状态树|2018-09-03|
 |40|Combination Sum II|39用字典改进|2018-09-03|
+|41|First Missing Positive|字典|2018-09-07|
 |42|Trapping Rain Water|多次搜索|2018-09-06|
+|43|Multiply Strings|双重循环|2018-09-07|
+|46|Permutations|递归|2018-09-07|
