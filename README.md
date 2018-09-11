@@ -30,3 +30,6 @@
 |46|Permutations|递归|2018-09-07|
 |48|Rotate Image|找规律？|2018-09-10|
 |49|Group Anagrams|字典|2018-09-10|
+|55|Jump Game|单次循环|2018-09-11|
+|58|Length of Last Word|倒序循环|2018-09-11|
+|65|Unique Paths|数学运算|2018-09-11|
