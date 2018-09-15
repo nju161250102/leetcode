@@ -31,10 +31,12 @@
 |48|Rotate Image|找规律？|2018-09-10|
 |49|Group Anagrams|字典|2018-09-10|
 |53|Maximum Subarray|最大子序列和|2018-09-12|
+|54|Spiral Matrix|循环|2018-09-15|
 |55|Jump Game|单次循环|2018-09-11|
 |57|Insert Interval|循环|2018-09-12|
 |58|Length of Last Word|倒序循环|2018-09-11|
-|61|Rotate List|链表|2018-09-12|
+|61|Rotate List|链表|2018-09-13|
 |62|Unique Paths|数学运算|2018-09-11|
 |63|Unique Paths II|迭代动态规划|2018-09-12|
 |64|Minimum Path Sum|迭代动态规划|2018-09-12|
+|66|Plus One|简单题|2018-09-15|
