@@ -40,3 +40,5 @@
 |63|Unique Paths II|迭代动态规划|2018-09-12|
 |64|Minimum Path Sum|迭代动态规划|2018-09-12|
 |66|Plus One|简单题|2018-09-15|
+|70|Climbing Stairs|简单迭代|2018-09-17|
+|73|Set Matrix Zeroes|集合|2018-09-17|
