@@ -45,5 +45,7 @@
 |73|Set Matrix Zeroes|集合|2018-09-17|
 |74|Search a 2D Matrix|查找|2018-09-18|
 |77|Combinations|组合|2018-09-19|
+|78|Subsets|DFS|2018-10-23|
+|93|Restore IP Addresses|DFS|2018-10-23|
 |96|Unique Binary Search Trees|动态规划|2018-10-22|
 |98|Validate Binary Search Tree|二叉树递归|2018-10-22|
