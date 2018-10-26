@@ -46,9 +46,11 @@
 |74|Search a 2D Matrix|查找|2018-09-18|
 |77|Combinations|组合|2018-09-19|
 |78|Subsets|DFS|2018-10-23|
+|81|Search in Rotated Sorted Array II|二分改进|2018-10-26|
 |82|Remove Duplicates from Sorted List II|链表去重|2018-10-25|
 |83|Remove Duplicates from Sorted List|链表去重|2018-10-25|
 |86|Partition List|链表|2018-10-25|
+|91|Decode Ways|动态规划|2018-10-26|
 |92|Reverse Linked List II|链表|2018-10-24|
 |93|Restore IP Addresses|DFS|2018-10-23|
 |94|Binary Tree Inorder Traversal|中序遍历|2018-10-24|
