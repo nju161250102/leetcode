@@ -61,4 +61,6 @@
 |103|Binary Tree Zigzag Level Order Traversal|层先遍历|2018-10-30|
 |104|Maximum Depth of Binary Tree|递归|2018-10-31|
 |105|Construct Binary Tree from Preorder and Inorder Traversal|递归|2018-10-31|
+|106|Construct Binary Tree from Inorder and Postorder Traversal|递归|2018-11-01|
+|107|Binary Tree Level Order Traversal II|同102|2018-11-01|
 |206|Reverse Linked List|链表反转|2018-10-24|

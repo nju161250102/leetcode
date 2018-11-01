@@ -12,12 +12,12 @@ class Solution(object):
         :type inorder: List[int]
         :rtype: TreeNode
         """
-        def fun(preorder, inorder):
-            if len(preorder) == 0:
+        def fun(pl, pr, il, ir):
+            if pl >= pr:
                 return None
-            root_node = TreeNode(preorder[0])
-            index = inorder.index(preorder[0])
-            root_node.left = fun(preorder[1:index+1], inorder[:index])
-            root_node.right = fun(preorder[index+1:], inorder[index+1:])
+            root_node = TreeNode(preorder[pl])
+            index = inorder.index(preorder[pl])
+            root_node.left = fun(pl+1, pl+index+1-il, il, index)
+            root_node.right = fun(pl+index+1-il, pr, index+1, ir)
             return root_node
-        return fun(preorder, inorder)
+        return fun(0, len(preorder), 0, len(inorder))
