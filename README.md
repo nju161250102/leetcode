@@ -67,4 +67,6 @@
 |110|Balanced Binary Tree|递归|2018-11-06|
 |111|Minimum Depth of Binary Tree|同110|2018-11-06|
 |112|Path Sum|只会递归|2018-11-06|
+|113|Path Sum II|同上|2018-11-07|
+|114|Flatten Binary Tree to Linked List|递归|2018-11-07|
 |206|Reverse Linked List|链表反转|2018-10-24|
