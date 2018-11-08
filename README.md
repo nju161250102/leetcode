@@ -69,4 +69,6 @@
 |112|Path Sum|只会递归|2018-11-06|
 |113|Path Sum II|同上|2018-11-07|
 |114|Flatten Binary Tree to Linked List|递归|2018-11-07|
+|116|Populating Next Right Pointers in Each Node|*|2018-11-08|
+|117|Populating Next Right Pointers in Each Node II|层先遍历|2018-11-08|
 |206|Reverse Linked List|链表反转|2018-10-24|
