@@ -71,4 +71,6 @@
 |114|Flatten Binary Tree to Linked List|递归|2018-11-07|
 |116|Populating Next Right Pointers in Each Node|*|2018-11-08|
 |117|Populating Next Right Pointers in Each Node II|层先遍历|2018-11-08|
+|118|Pascal's Triangle|数学问题|2018-11-09|
+|119|Pascal's Triangle II|同上|2018-11-09|
 |206|Reverse Linked List|链表反转|2018-10-24|
