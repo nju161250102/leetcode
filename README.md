@@ -73,4 +73,6 @@
 |117|Populating Next Right Pointers in Each Node II|层先遍历|2018-11-08|
 |118|Pascal's Triangle|数学问题|2018-11-09|
 |119|Pascal's Triangle II|同上|2018-11-09|
+|120|Triangle|动态规划|2018-11-10|
+|121|Best Time to Buy and Sell Stock||2018-11-10|
 |206|Reverse Linked List|链表反转|2018-10-24|
