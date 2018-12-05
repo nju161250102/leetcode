@@ -42,6 +42,7 @@
 |66|Plus One|简单题|2018-09-15|
 |69|Sqrt(x)|...|2018-09-18|
 |70|Climbing Stairs|简单迭代|2018-09-17|
+|72|Edit Distance|动态规划|2018-12-05|
 |73|Set Matrix Zeroes|集合|2018-09-17|
 |74|Search a 2D Matrix|查找|2018-09-18|
 |77|Combinations|组合|2018-09-19|
@@ -79,4 +80,7 @@
 |124|Binary Tree Maximum Path Sum|问题分解|2018-11-12|
 |125|Valid Palindrome|字符串|2018-11-13|
 |129|Sum Root to Leaf Numbers|深度搜索|2018-11-14|
+|130|Surrounded Regions|搜索问题|2018-11-19|
+|131|Palindrome Partitioning|回文字符串|2018-11-18|
 |206|Reverse Linked List|链表反转|2018-10-24|
+|718|Maximum Length of Repeated Subarray|动态规划|2018-12-05|
