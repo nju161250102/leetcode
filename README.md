@@ -15,6 +15,7 @@
 |12|Integer to Roman|打表|2018-07-19|
 |13|Roman to Integer|直接计算|2018-07-19|
 |14|Longest Common Prefix|二分法|2018-07-19|
+|17|Letter Combinations of a Phone Number|排列|2018-12-06|
 |20|Valid Parentheses|栈|2018-08-30|
 |22|Generate Parentheses|循环|2018-09-05|
 |31|Next Permutation|找算法|2018-09-05|
@@ -79,6 +80,7 @@
 |122|Best Time to Buy and Sell Stock II|提取区间|2018-11-12|
 |124|Binary Tree Maximum Path Sum|问题分解|2018-11-12|
 |125|Valid Palindrome|字符串|2018-11-13|
+|127|Word Ladder|双向BFS|2018-12-06|
 |129|Sum Root to Leaf Numbers|深度搜索|2018-11-14|
 |130|Surrounded Regions|搜索问题|2018-11-19|
 |131|Palindrome Partitioning|回文字符串|2018-11-18|
