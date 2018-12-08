@@ -15,6 +15,7 @@
 |12|Integer to Roman|打表|2018-07-19|
 |13|Roman to Integer|直接计算|2018-07-19|
 |14|Longest Common Prefix|二分法|2018-07-19|
+|15|3Sum|排序后两端查找|2018-12-07|
 |17|Letter Combinations of a Phone Number|排列|2018-12-06|
 |20|Valid Parentheses|栈|2018-08-30|
 |22|Generate Parentheses|循环|2018-09-05|
@@ -46,6 +47,7 @@
 |72|Edit Distance|动态规划|2018-12-05|
 |73|Set Matrix Zeroes|集合|2018-09-17|
 |74|Search a 2D Matrix|查找|2018-09-18|
+|75|Sort Colors|左右双指针|2018-12-07|
 |77|Combinations|组合|2018-09-19|
 |78|Subsets|DFS|2018-10-23|
 |81|Search in Rotated Sorted Array II|二分改进|2018-10-26|
@@ -71,6 +73,7 @@
 |112|Path Sum|只会递归|2018-11-06|
 |113|Path Sum II|同上|2018-11-07|
 |114|Flatten Binary Tree to Linked List|递归|2018-11-07|
+|115|Distinct Subsequences|动态规划|2018-12-08|
 |116|Populating Next Right Pointers in Each Node|*|2018-11-08|
 |117|Populating Next Right Pointers in Each Node II|层先遍历|2018-11-08|
 |118|Pascal's Triangle|数学问题|2018-11-09|
@@ -84,5 +87,7 @@
 |129|Sum Root to Leaf Numbers|深度搜索|2018-11-14|
 |130|Surrounded Regions|搜索问题|2018-11-19|
 |131|Palindrome Partitioning|回文字符串|2018-11-18|
+|136|Single Number|异或运算|2018-12-08|
+|137|Single Number II|高级的异或运算|2018-12-08|
 |206|Reverse Linked List|链表反转|2018-10-24|
 |718|Maximum Length of Repeated Subarray|动态规划|2018-12-05|
