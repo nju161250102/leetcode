@@ -87,6 +87,7 @@
 |129|Sum Root to Leaf Numbers|深度搜索|2018-11-14|
 |130|Surrounded Regions|搜索问题|2018-11-19|
 |131|Palindrome Partitioning|回文字符串|2018-11-18|
+|134|Gas Station|数组遍历|2018-12-09|
 |136|Single Number|异或运算|2018-12-08|
 |137|Single Number II|高级的异或运算|2018-12-08|
 |206|Reverse Linked List|链表反转|2018-10-24|
