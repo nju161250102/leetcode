@@ -90,5 +90,7 @@
 |134|Gas Station|数组遍历|2018-12-09|
 |136|Single Number|异或运算|2018-12-08|
 |137|Single Number II|高级的异或运算|2018-12-08|
+|138|Copy List with Random Pointer||2018-12-10|
+|139|Word Break|DP|2018-12-18|
 |206|Reverse Linked List|链表反转|2018-10-24|
 |718|Maximum Length of Repeated Subarray|动态规划|2018-12-05|
