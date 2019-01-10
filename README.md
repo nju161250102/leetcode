@@ -92,5 +92,8 @@
 |137|Single Number II|高级的异或运算|2018-12-08|
 |138|Copy List with Random Pointer||2018-12-10|
 |139|Word Break|DP|2018-12-18|
+|141|Linked List Cycle|链表问题|2018-12-24|
+|144|Binary Tree Preorder Traversal|先序遍历|2019-01-10|
+|150|Evaluate Reverse Polish Notation|栈求表达式|2019-01-10|
 |206|Reverse Linked List|链表反转|2018-10-24|
 |718|Maximum Length of Repeated Subarray|动态规划|2018-12-05|
