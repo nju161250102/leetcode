@@ -93,7 +93,9 @@
 |138|Copy List with Random Pointer||2018-12-10|
 |139|Word Break|DP|2018-12-18|
 |141|Linked List Cycle|链表问题|2018-12-24|
+|143|Reorder List|链表转数组|2018-01-11|
 |144|Binary Tree Preorder Traversal|先序遍历|2019-01-10|
+|145|Binary Tree Postorder Traversal|后序遍历|2019-01-11|
 |150|Evaluate Reverse Polish Notation|栈求表达式|2019-01-10|
 |206|Reverse Linked List|链表反转|2018-10-24|
 |718|Maximum Length of Repeated Subarray|动态规划|2018-12-05|
